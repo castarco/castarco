@@ -9,3 +9,12 @@
 
 -  👨‍💻 I'm a **Senior Developer** at [NearForm](https://nearform.com).
 -  ⌨️ Often code in **TypeScript** and **Rust**.
+
+  ---
+  
+  <p align="center">
+    <a href="https://octo-ring.com/p/castarco/prev">↤</a>
+    <a href="https://octo-ring.com/">Octo Ring</a> <a href="https://octo-ring.com/p/castarco/random">(random)</a>
+    <a href="https://octo-ring.com/p/castarco/next">↦</a>
+  </p>
+  
