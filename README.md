@@ -7,7 +7,7 @@
 <a rel="nofollow me" href="https://hachyderm.io/@castarco"><img title="Andreu's Mastodon" src="https://img.shields.io/badge/Mastodon-557775?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
 </p>
 
--  👨‍💻 I'm a **Senior Software Engineer** at [Modash](https://www.modash.io/).
+-  👨‍💻 I'm the CTO (and founder) of [KindSpells Labs](https://www.kindspells.dev/).
 -  ⌨️ Often code in **TypeScript** and **Rust**.
 
   ---
